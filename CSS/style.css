@@ -15,12 +15,12 @@ img {
     } 
 
 .right {
-    color:aliceblue;
-    text-align-last: right;
-    size:5px;
+    text-align: right;
+    font-size:small;
+    
 }
 
 body {
     color:aliceblue;
-    font-family:sans-serif;
+    font-family:fantasy;
 }
