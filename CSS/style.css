@@ -14,7 +14,7 @@ img {
     opacity:90%;
     } 
 
-.right {
+div.right {
     text-align:right;
     font-size:small;
     
@@ -27,4 +27,19 @@ img {
 body {
     color:aliceblue;
     font-family:cursive;
+}
+
+h2 {
+    text-align:center;
+    font-size:large;
+}
+
+h1 {
+    text-align:center;
+    font-size:x-large;
+}
+
+form {
+    text-align:center;
+    font-size:large;
 }
