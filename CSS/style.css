@@ -13,8 +13,8 @@ img {
     z-index: -1;
     opacity:90%;
     } 
-
-div.right {
+    
+#right {
     text-align-last:right;
     font-size:small;
     
