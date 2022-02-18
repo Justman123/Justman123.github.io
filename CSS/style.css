@@ -13,4 +13,9 @@ img {
     z-index: -1;
     opacity:90%;
     } 
-    
+
+.right {
+    color:aliceblue;
+    text-align-last: right;
+    size:5px;
+}
