@@ -19,3 +19,8 @@ img {
     text-align-last: right;
     size:5px;
 }
+
+body {
+    color:aliceblue;
+    font-family:sans-serif;
+}
