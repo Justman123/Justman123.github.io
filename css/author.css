@@ -1,0 +1,31 @@
+.author__info {
+    font-family: "Nanum Myeongjo", serif;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .info__name {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .main__author {
+    display: flex;
+  }
+  
+  .main__author:first-child img {
+    margin-right: 20px;
+  }
+  
+  .author__info span {
+    padding-bottom: 12px;
+  }
+  
+  .info__name {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .info__content {
+    opacity: 0.5;
+  }

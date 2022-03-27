@@ -1,0 +1,13 @@
+/* https://i.imgur.com/qjX3IB4.png */
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&family=Oswald:wght@300;400&display=swap");
+@import url("header.css");
+@import url("books.css");
+@import url("author.css");
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
