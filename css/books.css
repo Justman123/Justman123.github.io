@@ -1,92 +1,93 @@
 .book__info {
-    font-family: "Nanum Myeongjo", serif;
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .main {
-    padding-left: 15px;
-    padding-bottom: 25px;
-  }
-  .main__book {
-    display: flex;
-  }
-  .main__title {
-    display: flex;
-    margin-bottom: 11px;
-    margin-left: 15px;
-    font-size: 23px;
-  }
-  
-  .main__book:first-child img {
-    margin-right: 20px;
-  }
-  
-  .book__info span {
-    padding-bottom: 12px;
-  }
-  
-  .info__title {
-    font-weight: bold;
-    font-size: 20px;
-  }
-  
-  .info__author {
-    font-size: 15px;
-    opacity: 0.5;
-  }
-  
-  .book__rating {
-    color: #fecd32;
-    margin-bottom: 15px;
-  }
-  .fa-empty {
-    color: #ededed;
-  }
-  
-  .book__btn input {
-    width: 80px;
-    height: 25px;
-    margin-right: 10px;
-  }
-  
-  .book__btn {
-    height: 50px;
-    width: 170px;
-    display: flex;
-    justify-content: flex-start;
-  }
-  
-  .book__btn input[type="submit"] {
-    cursor: pointer;
-  }
-  .bookmark-icon {
-    position: relative;
-    top: -7px;
-    width: 35px;
-    height: 35px;
-    border-radius: 50%;
-    cursor: pointer;
-  }
-  
-  #btn {
-    width: 100px;
-    height: 35px;
-    position: relative;
-    top: -8px;
-    background-color: black;
-    color: white;
-  }
-  
-  .main__top-adv {
-    display: flex;
-    padding-bottom: 5px;
-  }
-  
-  .top-adv__book img {
-    margin-right: 25px;
-  }
-  
-  .top-adv__book .book__rating {
-    margin-left: 13px;
-  }
+  font-family: "Nanum Myeongjo", serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  padding-left: 15px;
+  padding-bottom: 25px;
+}
+.main__book {
+  display: flex;
+}
+.main__title {
+  display: flex;
+  margin-bottom: 11px;
+  margin-left: 15px;
+  font-size: 23px;
+}
+
+.main__book:first-child img {
+  margin-right: 20px;
+}
+
+.book__info span {
+  padding-bottom: 12px;
+}
+
+.info__title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.info__author {
+  font-size: 15px;
+  opacity: 0.5;
+}
+
+.book__rating {
+  color: #fecd32;
+  margin-bottom: 15px;
+}
+.fa-empty {
+  color: #ededed;
+}
+
+.book__btn input {
+  width: 80px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.book__btn {
+  height: 50px;
+  width: 170px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.book__btn input[type="submit"] {
+  cursor: pointer;
+}
+.bookmark-icon {
+  position: relative;
+  top: -7px;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#btn {
+  width: 100px;
+  height: 35px;
+  position: relative;
+  top: -8px;
+  background-color: black;
+  color: white;
+}
+
+.main__top-adv {
+  display: flex;
+  padding-bottom: 5px;
+  overflow: scroll;
+}
+
+.top-adv__book img {
+  margin-right: 25px;
+}
+
+.top-adv__book .book__rating {
+  margin-left: 13px;
+}
